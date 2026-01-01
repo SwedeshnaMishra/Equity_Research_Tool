@@ -1,1 +1,1 @@
-# Equity_Research_Tool-
+# Equity_Research_Tool
